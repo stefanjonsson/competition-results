@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "slug": "test-2",
+  "name": "Test 2",
+  "status": "live",
+  "createdAt": "2026-04-29T10:57:54.125Z",
+  "updatedAt": "2026-04-29T11:21:03.842Z",
+  "organizerLogin": "stefanjonsson",
+  "events": [
+    {
+      "id": "e_pisr9xd52b",
+      "name": "Luftgevär",
+      "scoreType": "points",
+      "direction": "higher-better",
+      "teamAggregation": "sum",
+      "unit": "poäng"
+    }
+  ],
+  "teamCount": 2
+}

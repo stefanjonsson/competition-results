@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-29T11:20:56.678Z",
+  "teams": [
+    {
+      "id": "t_68u3igjs29",
+      "name": "Team 1",
+      "captainGithubLogin": "stefanjonsson",
+      "memberIds": [
+        "m_za6vh2n1xf",
+        "m_za6v3mitht",
+        "m_za6vnj3ztw",
+        "m_za6vp62k3z",
+        "m_za6vmu1uyy"
+      ]
+    },
+    {
+      "id": "t_68u3s3zic4",
+      "name": "Team 2",
+      "captainGithubLogin": "stefanjonsson",
+      "memberIds": [
+        "m_za6vqgcj3h",
+        "m_za6vkapruj",
+        "m_za6vua7pdu",
+        "m_za6vlt7abw"
+      ]
+    }
+  ]
+}
