@@ -4,7 +4,7 @@
   "name": "Test 2",
   "status": "setup",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-04-29T11:49:14.136Z",
+  "updatedAt": "2026-04-29T11:49:21.905Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -18,6 +18,14 @@
     {
       "id": "e_sdncs9p2y5",
       "name": "Casting",
+      "scoreType": "points",
+      "direction": "higher-better",
+      "teamAggregation": "sum",
+      "unit": "poäng"
+    },
+    {
+      "id": "e_sjn5ew8cbt",
+      "name": "Varpa",
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "sum",
