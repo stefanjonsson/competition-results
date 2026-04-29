@@ -4,12 +4,20 @@
   "name": "Test 2",
   "status": "setup",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-04-29T11:48:09.502Z",
+  "updatedAt": "2026-04-29T11:49:14.136Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
       "id": "e_pisr9xd52b",
       "name": "Luftgevär",
+      "scoreType": "points",
+      "direction": "higher-better",
+      "teamAggregation": "sum",
+      "unit": "poäng"
+    },
+    {
+      "id": "e_sdncs9p2y5",
+      "name": "Casting",
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "sum",
