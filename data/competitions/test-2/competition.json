@@ -4,7 +4,7 @@
   "name": "Test 2",
   "status": "setup",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-04-29T11:49:21.905Z",
+  "updatedAt": "2026-04-29T11:49:35.152Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -26,6 +26,14 @@
     {
       "id": "e_sjn5ew8cbt",
       "name": "Varpa",
+      "scoreType": "points",
+      "direction": "higher-better",
+      "teamAggregation": "sum",
+      "unit": "poäng"
+    },
+    {
+      "id": "e_stv4lzxnzs",
+      "name": "Kubbkast baklänges",
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "sum",
