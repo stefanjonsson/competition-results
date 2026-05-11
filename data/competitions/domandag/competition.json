@@ -4,7 +4,7 @@
   "name": "Domändag",
   "status": "setup",
   "createdAt": "2026-05-11T11:31:58.422Z",
-  "updatedAt": "2026-05-11T11:49:19.108Z",
+  "updatedAt": "2026-05-11T13:19:01.348Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -13,7 +13,13 @@
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "average",
-      "unit": "poäng"
+      "unit": "poäng",
+      "allowedPoints": [
+        3,
+        5,
+        10
+      ],
+      "instructions": "10p - Träff i hink\n5p - Inom 1m*\n3p - Inom 2m*\n*Mät från där tyngd stannar till hink-kant"
     },
     {
       "id": "e_ihhas37aha",
