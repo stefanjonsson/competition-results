@@ -4,12 +4,20 @@
   "name": "Domändag",
   "status": "setup",
   "createdAt": "2026-05-11T11:31:58.422Z",
-  "updatedAt": "2026-05-11T11:33:22.393Z",
+  "updatedAt": "2026-05-11T11:33:35.614Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
       "id": "e_i7a16iiklc",
       "name": "Casting",
+      "scoreType": "points",
+      "direction": "higher-better",
+      "teamAggregation": "average",
+      "unit": "poäng"
+    },
+    {
+      "id": "e_ihhas37aha",
+      "name": "Varpa",
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "average",
