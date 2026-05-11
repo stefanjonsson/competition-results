@@ -2,9 +2,9 @@
   "version": 1,
   "slug": "test-2",
   "name": "Test 2",
-  "status": "setup",
+  "status": "live",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-05-11T11:56:04.872Z",
+  "updatedAt": "2026-05-11T11:56:43.062Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
