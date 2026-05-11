@@ -4,7 +4,7 @@
   "name": "Domändag",
   "status": "setup",
   "createdAt": "2026-05-11T11:31:58.422Z",
-  "updatedAt": "2026-05-11T11:34:09.424Z",
+  "updatedAt": "2026-05-11T11:49:19.108Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -46,6 +46,14 @@
       "direction": "higher-better",
       "teamAggregation": "average",
       "unit": "poäng"
+    },
+    {
+      "id": "e_2phgsa041x",
+      "name": "Tidsutmaning",
+      "scoreType": "time",
+      "direction": "higher-better",
+      "teamAggregation": "average",
+      "unit": "sekunder"
     }
   ],
   "teamCount": 3
