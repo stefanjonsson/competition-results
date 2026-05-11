@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T11:53:39.606Z",
+  "updatedAt": "2026-05-11T11:53:47.781Z",
   "teams": [
     {
       "id": "t_68u3igjs29",
@@ -16,7 +16,7 @@
     },
     {
       "id": "t_68u3s3zic4",
-      "name": "Team 2",
+      "name": "Team svinen",
       "captainGithubLogin": "stefanjonsson",
       "memberIds": [
         "m_za6vqgcj3h",
