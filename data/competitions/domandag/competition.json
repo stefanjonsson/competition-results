@@ -4,7 +4,7 @@
   "name": "Domändag",
   "status": "setup",
   "createdAt": "2026-05-11T11:31:58.422Z",
-  "updatedAt": "2026-05-11T13:21:15.577Z",
+  "updatedAt": "2026-05-11T13:21:51.232Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -60,7 +60,14 @@
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "average",
-      "unit": "poäng"
+      "unit": "poäng",
+      "allowedPoints": [
+        0,
+        3,
+        5,
+        10
+      ],
+      "instructions": "10p - Kungen nedslagen\n5p - Inom 1m*\n3p - Inom 2m*\n*Mät från där pinnen stannar till kungen"
     },
     {
       "id": "e_j7kgxy8ej0",
