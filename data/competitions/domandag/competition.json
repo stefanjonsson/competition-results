@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "slug": "domandag",
+  "name": "Domändag",
+  "status": "setup",
+  "createdAt": "2026-05-11T11:31:58.422Z",
+  "updatedAt": "2026-05-11T11:31:58.422Z",
+  "organizerLogin": "stefanjonsson",
+  "events": [],
+  "teamCount": 3
+}
