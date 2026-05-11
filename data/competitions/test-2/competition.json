@@ -4,7 +4,7 @@
   "name": "Test 2",
   "status": "setup",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-05-11T13:23:21.562Z",
+  "updatedAt": "2026-05-11T13:23:29.175Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -52,7 +52,7 @@
       "id": "e_lfsvmwe2tm",
       "name": "Tidsutmaning",
       "scoreType": "time",
-      "direction": "higher-better",
+      "direction": "lower-better",
       "teamAggregation": "average",
       "unit": "sekunder"
     },
