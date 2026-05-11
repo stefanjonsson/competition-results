@@ -4,7 +4,7 @@
   "name": "Test 2",
   "status": "setup",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-05-11T13:15:29.246Z",
+  "updatedAt": "2026-05-11T13:16:05.283Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -19,7 +19,7 @@
         5,
         10
       ],
-      "instructions": "10p Träff i hink\n5p Inom 1m\n3p Inom 2m\n\nMät från där tyngd stannar till hink-kant"
+      "instructions": "10p - Träff i hink\n5p - Inom 1m*\n3p - Inom 2m*\n\n*Mät från där tyngd stannar till hink-kant"
     },
     {
       "id": "e_sjn5ew8cbt",
