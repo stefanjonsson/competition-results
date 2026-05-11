@@ -4,7 +4,7 @@
   "name": "Test 2",
   "status": "live",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-05-11T12:35:31.895Z",
+  "updatedAt": "2026-05-11T12:35:42.327Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -26,7 +26,12 @@
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "sum",
-      "unit": "poäng"
+      "unit": "poäng",
+      "allowedPoints": [
+        3,
+        5,
+        10
+      ]
     },
     {
       "id": "e_stv4lzxnzs",
