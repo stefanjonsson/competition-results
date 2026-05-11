@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T11:56:23.000Z",
+  "updatedAt": "2026-05-11T11:56:31.311Z",
   "teams": [
     {
       "id": "t_68u3igjs29",
@@ -10,7 +10,8 @@
         "m_za6vlt7abw",
         "m_za6vh2n1xf",
         "m_za6vkapruj",
-        "m_za6vp62k3z"
+        "m_za6vp62k3z",
+        "m_za6vmu1uyy"
       ]
     },
     {
@@ -20,8 +21,7 @@
       "memberIds": [
         "m_za6vua7pdu",
         "m_za6vqgcj3h",
-        "m_za6v3mitht",
-        "m_za6vmu1uyy"
+        "m_za6v3mitht"
       ]
     }
   ]
