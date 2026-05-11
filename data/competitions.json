@@ -6,6 +6,12 @@
       "name": "Test 2",
       "status": "setup",
       "createdAt": "2026-04-29T10:57:54.125Z"
+    },
+    {
+      "slug": "domandag",
+      "name": "Domändag",
+      "status": "setup",
+      "createdAt": "2026-05-11T11:31:58.422Z"
     }
   ]
 }
