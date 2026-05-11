@@ -4,7 +4,7 @@
   "name": "Domändag",
   "status": "setup",
   "createdAt": "2026-05-11T11:31:58.422Z",
-  "updatedAt": "2026-05-11T11:33:58.383Z",
+  "updatedAt": "2026-05-11T11:34:09.424Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -34,6 +34,14 @@
     {
       "id": "e_iz1r20mqds",
       "name": "Kubbkast",
+      "scoreType": "points",
+      "direction": "higher-better",
+      "teamAggregation": "average",
+      "unit": "poäng"
+    },
+    {
+      "id": "e_j7kgxy8ej0",
+      "name": "Frisbee",
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "average",
