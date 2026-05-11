@@ -2,7 +2,7 @@
   "version": 1,
   "competitionSlug": "test-2",
   "teamId": "t_68u3s3zic4",
-  "updatedAt": "2026-05-11T12:37:45.253Z",
+  "updatedAt": "2026-05-11T12:37:47.210Z",
   "scores": {
     "e_pisr9xd52b": {
       "m_za6vua7pdu": 4,
@@ -22,7 +22,8 @@
     },
     "e_stv4lzxnzs": {
       "m_za6vua7pdu": 3,
-      "m_za6v3mitht": 3
+      "m_za6v3mitht": 3,
+      "m_za6vqgcj3h": 3
     }
   }
 }
