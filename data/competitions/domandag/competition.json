@@ -4,7 +4,7 @@
   "name": "Domändag",
   "status": "setup",
   "createdAt": "2026-05-11T11:31:58.422Z",
-  "updatedAt": "2026-05-11T13:19:01.348Z",
+  "updatedAt": "2026-05-11T13:20:08.226Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -27,7 +27,12 @@
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "average",
-      "unit": "poäng"
+      "unit": "poäng",
+      "allowedPoints": [
+        3,
+        5,
+        10
+      ]
     },
     {
       "id": "e_ipkby47bf0",
