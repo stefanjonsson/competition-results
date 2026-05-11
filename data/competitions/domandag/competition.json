@@ -4,7 +4,7 @@
   "name": "Domändag",
   "status": "setup",
   "createdAt": "2026-05-11T11:31:58.422Z",
-  "updatedAt": "2026-05-11T13:21:51.232Z",
+  "updatedAt": "2026-05-11T13:22:20.295Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -75,7 +75,14 @@
       "scoreType": "points",
       "direction": "higher-better",
       "teamAggregation": "average",
-      "unit": "poäng"
+      "unit": "poäng",
+      "allowedPoints": [
+        0,
+        3,
+        5,
+        10
+      ],
+      "instructions": "10p - Träff i tunna\n5p - Inom 1m*\n3p - Inom 2m*\n*Mät från där disken stannar till tunnan"
     },
     {
       "id": "e_2phgsa041x",
