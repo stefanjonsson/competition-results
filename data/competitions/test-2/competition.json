@@ -4,7 +4,7 @@
   "name": "Test 2",
   "status": "setup",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-05-11T13:37:54.128Z",
+  "updatedAt": "2026-05-11T13:38:03.053Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -15,6 +15,7 @@
       "teamAggregation": "sum",
       "unit": "poäng",
       "allowedPoints": [
+        0,
         3,
         5,
         10
