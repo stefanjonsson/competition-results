@@ -4,7 +4,7 @@
   "name": "Test 2",
   "status": "setup",
   "createdAt": "2026-04-29T10:57:54.125Z",
-  "updatedAt": "2026-05-11T13:16:50.111Z",
+  "updatedAt": "2026-05-11T13:17:28.325Z",
   "organizerLogin": "stefanjonsson",
   "events": [
     {
@@ -69,7 +69,8 @@
         6,
         8,
         10
-      ]
+      ],
+      "instructions": "1p per träff"
     }
   ],
   "teamCount": 2
